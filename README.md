@@ -1,5 +1,8 @@
 # Obstacle Avoidance Car using Arduino
 
+ ## Project Images
+  ![Project](1.jpg)
+
 This project demonstrates an obstacle avoidance car built with Arduino. The car uses an ultrasonic sensor to detect obstacles and infrared sensors to prevent falling off surfaces. The car is equipped with DC motors controlled by an L293D motor shield and can autonomously navigate around obstacles.
 
 ## Components Used
