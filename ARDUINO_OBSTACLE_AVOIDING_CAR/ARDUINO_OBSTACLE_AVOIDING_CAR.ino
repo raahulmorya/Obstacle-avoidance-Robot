@@ -60,7 +60,7 @@ void loop() {
  { 
   moveStop();
   delay(100);
-  moveBackward();
+  moveBackward(); 
   delay(300);
   moveStop();
   delay(200);
